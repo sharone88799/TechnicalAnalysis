@@ -205,3 +205,655 @@ LazyBear Indicators -
 203. Decisionpoint Price Momentum Oscillator: https://www.tradingview.com/script/5e9WBJwE-DecisionPoint-Price-Momentum-Oscillator-LazyBear/
 204. DecisionPoint Swenlin Trading Oscillator [Breadth]: https://www.tradingview.com/script/tSiv4FOr-DecisionPoint-Breadth-Swenlin-Trading-Oscillator-LazyBear/
 205. DecisionPoint Swenlin Trading Oscillator [Volume]: https://www.tradingview.com/script/VZ6OUEXS-DecisionPoint-Volume-Swenlin-Trading-Oscillator-LazyBear/
+
+
+====================================================================
+
+Everget Indicators - 
+___________________________________________________________
+Moving Averages & Filters
+
+Customizable Multiple Moving Averages
+https://www.tradingview.com/script/UaMBGG0a-Customizable-Multiple-Moving-Averages/
+
+Moving Average 3.0 (3rd Generation) (Also known as Dürschner Moving Average)
+https://www.tradingview.com/script/is0c2vTu-Moving-Average-3-0-3rd-Generation/
+
+Jurik Moving Average (Well, not a real one but similar)
+https://www.tradingview.com/script/nZuBWW9j-Jurik-Moving-Average/
+
+Ehlers Simple Decycler
+https://www.tradingview.com/script/ZuIZPR4q-Ehlers-Simple-Decycler/
+
+Parabolic Weighted Moving Average
+https://www.tradingview.com/script/U8JJOl1b-Parabolic-Weighted-Moving-Average/
+
+Ehlers MESA Adaptive Moving Averages (MAMA & FAMA)
+https://www.tradingview.com/script/aaWzn9bK-Ehlers-MESA-Adaptive-Moving-Averages-MAMA-FAMA/
+
+Distance Weighted Moving Average
+https://www.tradingview.com/script/HE2Fg4rc-Distance-Weighted-Moving-Average/
+
+Inverse Distance Weighted Moving Average
+https://www.tradingview.com/script/Lf8rYmMR-Inverse-Distance-Weighted-Moving-Average/
+
+Double Weighted Moving Average
+https://www.tradingview.com/script/TZNHdMDL-Double-Weighted-Moving-Average/
+
+Middle-High-Low Moving Average
+https://www.tradingview.com/script/BxmwCAHW-Middle-High-Low-Moving-Average/
+
+Leo Moving Average
+https://www.tradingview.com/script/eU9pCDrk-Leo-Moving-Average/
+
+McNicholl Moving Average
+https://www.tradingview.com/script/O7gCMT1q-McNicholl-Moving-Average/
+
+Fibonacci Weighted Moving Average
+https://www.tradingview.com/script/gObTdd4J-Fibonacci-Weighted-Moving-Average/
+
+Kaufman Adaptive Moving Average
+https://www.tradingview.com/script/WMySm5L4-Kaufman-Adaptive-Moving-Average/
+
+Bryant Adaptive Moving Average
+https://www.tradingview.com/script/qvng6qui-Bryant-Adaptive-Moving-Average/
+
+Henderson Weighted Moving Average
+https://www.tradingview.com/script/jzalZZv7-Henderson-Weighted-Moving-Average/
+
+Spencer 21-Point Moving Average
+https://www.tradingview.com/script/CfFyFamg-Spencer-21-Point-Moving-Average/
+
+Spencer 15-Point Moving Average
+https://www.tradingview.com/script/Tl5fNDvN-Spencer-15-Point-Moving-Average/
+
+Ehlers Deviation-Scaled Moving Average (DSMA)
+https://www.tradingview.com/script/Vsa2HTzq-Ehlers-Deviation-Scaled-Moving-Average-DSMA/
+
+Holt Exponential Moving Average
+https://www.tradingview.com/script/Y9K4SHMj-Holt-Exponential-Moving-Average/
+
+Ahrens Moving Average
+https://www.tradingview.com/script/lcKLkfa4-Ahrens-Moving-Average/
+
+Recursive Moving Trend Average
+https://www.tradingview.com/script/TTYuhwQN-Recursive-Moving-Trend-Average/
+
+Sharp Modified Moving Average
+https://www.tradingview.com/script/e120lIKf-Sharp-Modified-Moving-Average/
+
+Apirine Adaptive Moving Average
+https://www.tradingview.com/script/urJFGIcv-Adaptive-Moving-Average/
+ 
+Apirine Adaptive Exponential Moving Average
+https://www.tradingview.com/script/HSKM74sl-Adaptive-Exponential-Moving-Average/
+
+Elastic Volume Weighted Moving Average
+https://www.tradingview.com/script/XKkNwhR7-Elastic-Volume-Weighted-Moving-Average/
+
+Sine Weighted Moving Average
+https://www.tradingview.com/script/6MWFvnPO-Sine-Weighted-Moving-Average/
+
+Zero Lag Exponential Moving Average
+https://www.tradingview.com/script/Oxizu1k7-Zero-Lag-Exponential-Moving-Average/
+
+Regularized Exponential Moving Average
+https://www.tradingview.com/script/Y233oS7z-Regularized-Exponential-Moving-Average/
+
+Quadruple Exponential Moving Average (QEMA)
+https://www.tradingview.com/script/MVL8Gd3x-Quadruple-Exponential-Moving-Average-QEMA/
+
+Pentuple Exponential Moving Average (PEMA)
+https://www.tradingview.com/script/JuOKYZOJ-Pentuple-Exponential-Moving-Average-PEMA/
+
+T3 Moving Average
+https://www.tradingview.com/script/jTf7ZhOC-T3-Moving-Average/
+
+Adaptive RSI
+https://www.tradingview.com/script/tSpy2kw2-Adaptive-RSI/
+
+Variable Index Dynamic Average (VIDYA)
+https://www.tradingview.com/script/hdrf0fXV-Variable-Index-Dynamic-Average-VIDYA/
+
+Fractal Adaptive Moving Average
+https://www.tradingview.com/script/rr7Nn1Fj-Fractal-Adaptive-Moving-Average/
+
+Triangular Moving Average
+https://www.tradingview.com/script/Y3mprx4L-Triangular-Moving-Average/
+
+Quick Moving Average
+https://www.tradingview.com/script/fKinbRjG-Quick-Moving-Average/
+
+Multiple Hull Moving Average
+https://www.tradingview.com/script/gRotBP8Q-Multiple-Hull-Moving-Average/
+
+Self-Weighted Moving Average
+https://www.tradingview.com/script/727DvbJE-Self-Weighted-Moving-Average/
+
+Butterworth Filter
+https://www.tradingview.com/script/UJyyEzbA-Butterworth-Filter/
+
+Gaussian Filter
+https://www.tradingview.com/script/rbAqS8EX-Gaussian-Filter/
+
+Hampel Filter
+https://www.tradingview.com/script/FAddWsSc-Hampel-Filter/
+
+Finite Impulse Response (FIR) Filter
+https://www.tradingview.com/script/mvXfI6Yf-Finite-Impulse-Response-FIR-Filter/
+
+Infinite Impulse Response (IIR) Filter
+https://www.tradingview.com/script/WF4SheKj-Infinite-Impulse-Response-IIR-Filter/
+
+Laguerre Filter
+https://www.tradingview.com/script/dg47uJX6-Laguerre-Filter/
+
+Adaptive Laguerre Filter
+https://www.tradingview.com/script/sAt8FpH5-Adaptive-Laguerre-Filter/
+
+Ehlers Distance Coefficient Filter
+https://www.tradingview.com/script/6a8CD4JI-Ehlers-Distance-Coefficient-Filter/
+
+Ehlers Super Smoother Filter
+https://www.tradingview.com/script/VdJy0yBJ-Ehlers-Super-Smoother-Filter/
+
+Recursive Median Filter
+https://www.tradingview.com/script/rjXrLov2-Recursive-Median-Filter/
+
+Ehlers Instantaneous Trendline
+https://www.tradingview.com/script/wwbe7v9s-Ehlers-Instantaneous-Trendline/
+
+Ehlers Leading Indicator
+https://www.tradingview.com/script/vFx2PxoB-Ehlers-Leading-Indicator/
+
+Ehlers Optimum Elliptic Filter
+https://www.tradingview.com/script/oXVueGay-Ehlers-Optimum-Elliptic-Filter/
+
+Ehlers Modified Optimum Elliptic Filter
+https://www.tradingview.com/script/OGToVsFd-Ehlers-Modified-Optimum-Elliptic-Filter/
+
+Alpha-Decreasing Exponential Moving Average
+https://www.tradingview.com/script/gI9kyUcP-Alpha-Decreasing-Exponential-Moving-Average/
+
+Moving Median
+https://www.tradingview.com/script/2vgmVwSP-Moving-Median/
+
+Trimean
+https://www.tradingview.com/script/Qf7glwIh-Trimean/
+
+Farey Sequence Weighted Moving Average
+https://www.tradingview.com/script/UQ48Qh3y-Farey-Sequence-Weighted-Moving-Average/
+
+Corrected Moving Average
+https://www.tradingview.com/script/0nfmHG29-Corrected-Moving-Average/
+
+___________________________________________________________
+Trailing Stops
+
+
+SuperTrend
+https://www.tradingview.com/script/VLWVV7tH-SuperTrend/
+
+Chandelier Exit
+https://www.tradingview.com/script/AqXxNS7j-Chandelier-Exit/
+
+Parabolic SAR
+https://www.tradingview.com/script/MddD4giy-Parabolic-SAR/
+
+Nick Rypock Trailing Reverse (NRTR)
+https://www.tradingview.com/script/XAscppNW-Nick-Rypock-Trailing-Reverse-NRTR/
+
+___________________________________________________________
+Bands & Channels
+
+Vortex Bands
+https://www.tradingview.com/script/jCOl5YHZ-Vortex-Bands/
+
+Mean Absolute Deviation Bands
+https://www.tradingview.com/script/cNymC6nG-Mean-Absolute-Deviation-Bands/
+
+Kirshenbaum Bands
+https://www.tradingview.com/script/dBTwZawK-Kirshenbaum-Bands/
+
+Interquartile Range Bands
+https://www.tradingview.com/script/YoNUqtWW-Interquartile-Range-Bands/
+
+Stoller Average Range Channels (STARC) Bands
+https://www.tradingview.com/script/FUWMRz9K-Stoller-Average-Range-Channels-STARC-Bands/
+
+Acceleration Bands
+https://www.tradingview.com/script/FiaLOcXz-Acceleration-Bands/
+
+Moving Average Channel
+https://www.tradingview.com/script/XeDthrnT-Moving-Average-Channel/
+
+___________________________________________________________
+Momentum Studies & Oscillators
+
+Repulse
+https://www.tradingview.com/script/WXLkPkpr-Repulse/
+
+Pring Special K
+https://www.tradingview.com/script/2KdUDZPq-Pring-Special-K/
+
+Disparity Index
+https://www.tradingview.com/script/vn03FE5C-Disparity-Index/
+
+Kairi Relative Index
+https://www.tradingview.com/script/2viDaDnF-Kairi-Relative-Index/
+
+Awesome Oscillator
+https://www.tradingview.com/script/DN0o74FQ-Awesome-Oscillator/
+
+Accelerator Oscillator
+https://www.tradingview.com/script/ZFdelW44-Accelerator-Oscillator/
+
+Relative Strength Index (RSI)
+https://www.tradingview.com/script/XomFeord-Relative-Strength-Index/
+
+Jurik RSX
+https://www.tradingview.com/script/20TzvKPk-Jurik-RSX/
+
+Self-Adjusting RSI
+https://www.tradingview.com/script/M3rE7rre-Self-Adjusting-RSI/
+
+Dynamic Momentum Index
+https://www.tradingview.com/script/INiDxXs0-Dynamic-Momentum-Index/
+
+Chande Momentum Oscillator
+https://www.tradingview.com/script/ogmWth5h-Chande-Momentum-Oscillator/
+
+Commodity Channel Index
+https://www.tradingview.com/script/MWLWeCpV-Commodity-Channel-Index/
+
+Rocket RSI
+https://www.tradingview.com/script/VXOLWM61-Rocket-RSI/
+
+Relative Momentum Index
+https://www.tradingview.com/script/kwIt9OgQ-Relative-Momentum-Index/
+
+Rapid RSI
+https://www.tradingview.com/script/jaGhXmgT-Rapid-RSI/
+
+Relative Spread Strength
+https://www.tradingview.com/script/gwZJx775-Relative-Spread-Strength/
+
+Asymmetrical RSI
+https://www.tradingview.com/script/WBAk8j4q-Asymmetrical-RSI/
+
+Laguerre RSI
+https://www.tradingview.com/script/w0hoT58L-Laguerre-RSI/
+
+Laguerre RSI (Self-Adjusting Alpha with Fractals Energy)
+https://www.tradingview.com/script/ekefK3OV-Laguerre-RSI-Self-Adjusting-Alpha-with-Fractals-Energy/
+
+Stochastic Connors RSI
+https://www.tradingview.com/script/vWAPUAl9-Stochastic-Connors-RSI/
+
+Intraday Momentum Index
+https://www.tradingview.com/script/1R88ynW5-Intraday-Momentum-Index/
+
+Stochastic Momentum Index
+https://www.tradingview.com/script/NULg8CIG-Stochastic-Momentum-Index/
+
+Tick Line Momentum Oscillator
+https://www.tradingview.com/script/in7IRPea-Tick-Line-Momentum-Oscillator/
+
+Smoothed Rate of Change
+https://www.tradingview.com/script/rnlM3SYP-Smoothed-Rate-of-Change/
+
+Price Momentum Oscillator
+https://www.tradingview.com/script/bPlpfFxF-Price-Momentum-Oscillator/
+
+DeMarker
+https://www.tradingview.com/script/1vGgy5so-DeMarker/
+
+Coppock Curve
+https://www.tradingview.com/script/UjV3LHsh-Coppock-Curve/
+
+CG Oscillator (Center of Gravity)
+https://www.tradingview.com/script/cbPsaSCd-CG-Oscillator-Center-of-Gravity/
+
+Stochastic CG Oscillator (Center of Gravity)
+https://www.tradingview.com/script/UezaCfDg-Stochastic-CG-Oscillator-Center-of-Gravity/
+
+Ehlers Smoothed Adaptive Momentum
+https://www.tradingview.com/script/PP4FmEA7-Ehlers-Smoothed-Adaptive-Momentum/
+
+Ehlers Cyber Cycle
+https://www.tradingview.com/script/Rol6rD2Y-Ehlers-Cyber-Cycle/
+
+Ehlers Stochastic Cyber Cycle
+https://www.tradingview.com/script/CPLfkmht-Ehlers-Stochastic-Cyber-Cycle/
+
+Ehlers Stochastic
+https://www.tradingview.com/script/iNw44glL-Ehlers-Stochastic/
+
+Ehlers Triple Delay-Line Detrender
+https://www.tradingview.com/script/VHnzoA0W-Ehlers-Triple-Delay-Line-Detrender/
+
+Ehlers Reverse Exponential Moving Average
+https://www.tradingview.com/script/9BtJglWU-Ehlers-Reverse-Exponential-Moving-Average/
+
+Ehlers Super Passband Filter
+https://www.tradingview.com/script/DQ5SXLGW-Ehlers-Super-Passband-Filter/
+
+Recursive Median Oscillator
+https://www.tradingview.com/script/2FbE5YzB-Recursive-Median-Oscillator/
+
+Stochastic
+https://www.tradingview.com/script/kVJIw2Ct-Stochastic/
+
+True Strength Index (TSI)
+https://www.tradingview.com/script/2GdqewLx-True-Strength-Index-TSI/
+
+Money Flow Index (MFI)
+https://www.tradingview.com/script/hYmRLirx-Money-Flow-Index-MFI/
+
+___________________________________________________________
+Trend Indicators
+
+Trendscore
+https://www.tradingview.com/script/AwtE5NG5-Trendscore/
+
+Forecast Oscillator
+https://www.tradingview.com/script/OrHjfb5L-Forecast-Oscillator/
+
+Regression Oscillator
+https://www.tradingview.com/script/vo9NNern-Regression-Oscillator/
+
+Gator Oscillator
+https://www.tradingview.com/script/jltye2iO-Gator-Oscillator/
+
+Accumulative Swing Index
+https://www.tradingview.com/script/7VnPQdHt-Accumulative-Swing-Index/
+
+Vertical Horizontal Filter
+https://www.tradingview.com/script/TkvqDfpu-Vertical-Horizontal-Filter/
+
+Mass Index
+https://www.tradingview.com/script/6Kad9381-Mass-Index/
+
+Dorsey Inertia
+https://www.tradingview.com/script/bzxmXFGd-Dorsey-Inertia/
+
+Derivative Oscillator
+https://www.tradingview.com/script/b1qim2XB-Derivative-Oscillator/
+
+Rainbow Oscillator
+https://www.tradingview.com/script/QaAqLTZA-Rainbow-Oscillator/
+
+Chande Kroll R-Squared Index
+https://www.tradingview.com/script/m9rq1HYz-Chande-Kroll-R-Squared-Index/
+
+Range Action Verification Index (RAVI)
+https://www.tradingview.com/script/pZkdfat6-Range-Action-Verification-Index-RAVI/
+
+Random Walk Index
+https://www.tradingview.com/script/KVsRBJeB-Random-Walk-Index/
+
+Total Power Indicator
+https://www.tradingview.com/script/E0sbHC4E-Total-Power-Indicator/
+
+Customizable MACD
+https://www.tradingview.com/script/XI9iDJzH-Customizable-MACD/
+
+V-MACD
+https://www.tradingview.com/script/0IdSKdXM-V-MACD/
+
+VW-MACD
+https://www.tradingview.com/script/PHRFdHIH-VW-MACD/
+
+Percentage Price Oscillator
+https://www.tradingview.com/script/rWzEGwAt-Percentage-Price-Oscillator/
+
+Percentage Volume Oscillator
+https://www.tradingview.com/script/tg1W1r5A-Percentage-Volume-Oscillator/
+
+Ehlers Decycler Oscillator
+https://www.tradingview.com/script/5xelSGhd-Ehlers-Decycler-Oscillator/
+
+Schaff Trend Cycle
+https://www.tradingview.com/script/UkWZRgLG-Schaff-Trend-Cycle/
+
+Didi Index
+https://www.tradingview.com/script/HLMpIzEn-Didi-Index/
+
+TRIX
+https://www.tradingview.com/script/NTAdUxle-TRIX/
+
+Stiffness Indicator
+https://www.tradingview.com/script/Ds1akUBu-Stiffness-Indicator/
+
+Trend Detection Index
+https://www.tradingview.com/script/hpTe0uaz-Trend-Detection-Index/
+
+Trend Continuation Factor
+https://www.tradingview.com/script/rI0YtmKc-Trend-Continuation-Factor/
+
+Trend Trigger Factor
+https://www.tradingview.com/script/WA9Z4CV2-Trend-Trigger-Factor/
+
+Trend Intensity Index
+https://www.tradingview.com/script/KYZOCAsk-Trend-Intensity-Index/
+
+Phase Change Index
+https://www.tradingview.com/script/OT1P5jVQ-Phase-Change-Index/
+
+HalfTrend
+https://www.tradingview.com/script/U1SJ8ubc-HalfTrend/
+
+___________________________________________________________
+Volatility Studies & Oscillators
+
+Relative Volatility Index
+https://www.tradingview.com/script/mLZJqxKn-Relative-Volatility-Index/
+
+Pretty Good Oscillator
+https://www.tradingview.com/script/fdN71ozY-Pretty-Good-Oscillator/
+
+Volatility Ratio
+https://www.tradingview.com/script/Xu6dEeWK-Volatility-Ratio/
+
+Damping Index
+https://www.tradingview.com/script/HMackUqR-Damping-Index/
+
+Normalized Average True Range
+https://www.tradingview.com/script/lZhoybZZ-Normalized-Average-True-Range/
+
+Mayer Multiple
+https://www.tradingview.com/script/Ru56GH03-Mayer-Multiple/
+
+Ulcer Index
+https://www.tradingview.com/script/xWxIok6S-Ulcer-Index/
+
+Ehlers Fisherized Deviation-Scaled Oscillator
+https://www.tradingview.com/script/DdLQBt87-Ehlers-Fisherized-Deviation-Scaled-Oscillator/
+
+Gopalakrishnan Range Index
+https://www.tradingview.com/script/89qjkiB1-Gopalakrishnan-Range-Index/
+
+___________________________________________________________
+Volume Studies & Oscillators
+
+Volume Accumulation
+https://www.tradingview.com/script/VkDMoGmV-Volume-Accumulation/
+
+Net Volume
+https://www.tradingview.com/script/peVp9fVt-Net-Volume/
+
+% Volume (%V)
+https://www.tradingview.com/script/7ULdfB8F-Volume-V/
+
+Positive Volume Index
+https://www.tradingview.com/script/4rXhANLJ-Positive-Volume-Index/
+
+Negative Volume Index
+https://www.tradingview.com/script/c1wLQoyT-Negative-Volume-Index/
+
+On Balance Volume
+https://www.tradingview.com/script/Gb7B8oS6-On-Balance-Volume/
+
+Accumulation/Distribution Line
+https://www.tradingview.com/script/GWUCNKI7-Accumulation-Distribution-Line/
+
+Price Volume Trend
+https://www.tradingview.com/script/3Ah2ALck-Price-Volume-Trend/
+
+Klinger Volume Oscillator
+https://www.tradingview.com/script/Qnn7ymRK-Klinger-Volume-Oscillator/
+
+___________________________________________________________
+Cryptocurrency Market Caps
+
+Waltonchain Market Cap
+https://www.tradingview.com/script/KDAtXsrs-Waltonchain-Market-Cap/
+
+Binance Coin Market Cap
+https://www.tradingview.com/script/sQt3v6Qq-Binance-Coin-Market-Cap/
+
+TrueUSD Market Cap
+https://www.tradingview.com/script/qTsjmwdb-TrueUSD-Market-Cap/
+
+Paxos Standard Token Market Cap
+https://www.tradingview.com/script/slLbON5H-Paxos-Standard-Token-Market-Cap/
+
+USD Coin Market Cap
+https://www.tradingview.com/script/5APD1Tio-USD-Coin-Market-Cap/
+
+___________________________________________________________
+Statistics
+
+Gaps % Size Distribution
+https://www.tradingview.com/script/TjKDUPl0-Gaps-Size-Distribution/
+
+Ticker Performance by US President
+https://www.tradingview.com/script/Meh3WwDL-Ticker-Performance-by-US-President/
+
+Linear Regression (All Data)
+https://www.tradingview.com/script/NUeh5q6T-Linear-Regression-All-Data/
+
+US Treasury Yields
+https://www.tradingview.com/script/IzYMQrNT-US-Treasury-Yields/
+
+Return on Investment (ROI)
+https://www.tradingview.com/script/mXzt5oaB-Return-on-Investment-ROI/
+
+Year-to-Date (YTD) % Return
+https://www.tradingview.com/script/UJyXKtoL-Year-to-Date-YTD-Return/
+
+Dividends per Share (DPS, Yearly)
+https://www.tradingview.com/script/zpiRSSYZ-Dividends-per-Share-DPS-Yearly/
+
+Earnings per Share (EPS, Yearly)
+https://www.tradingview.com/script/edjAmYOh-Earnings-per-Share-EPS-Yearly/
+
+Close-to-Close % Change Distribution
+https://www.tradingview.com/script/deb3rvV1-Close-to-Close-Change-Distribution/
+
+Bullish/Bearish Candle Series Distribution
+https://www.tradingview.com/script/FMlFV1vt-Bullish-Bearish-Candle-Series-Distribution/
+
+All-Time High % Drop
+https://www.tradingview.com/script/4TMQpprc-All-Time-High-Drop/
+
+All-Time High Days
+https://www.tradingview.com/script/19vx1T4x-All-Time-High-Days/
+
+Bitcoin All-Time High (ATH) Hash Rate Level
+https://www.tradingview.com/script/43nbJrWn-Bitcoin-All-Time-High-ATH-Hash-Rate-Level/
+
+Candles History
+https://www.tradingview.com/script/rzxnOT2b-Candles-History/
+
+Kurtosis Indicator
+https://www.tradingview.com/script/Qe90JYge-Kurtosis-Indicator/
+
+Z-Score
+https://www.tradingview.com/script/gRy0oaSB-Z-Score/
+
+___________________________________________________________
+Date/Time Highlighters & Overlays
+
+Range Candles
+https://www.tradingview.com/script/YevXUDhv-Range-Candles/
+
+BitMEX Withdrawals Cutoff Time
+https://www.tradingview.com/script/98MQywBD-BitMEX-Withdrawals-Cutoff-Time/
+
+Quarters
+https://www.tradingview.com/script/gsNET2mi-Quarters/
+
+Leap Years
+https://www.tradingview.com/script/C7bOTUxm-Leap-Years/
+
+Weekdays Gaps
+https://www.tradingview.com/script/i5ieVhTr-Weekdays-Gaps/
+
+___________________________________________________________
+Research and Utils
+
+Unit Testing Framework
+https://www.tradingview.com/script/q45dulJC-UTILS-Unit-Testing-Framework/
+
+Session Input Parser
+https://www.tradingview.com/script/t1RSjDSb-UTILS-Session-Input-Parser/
+
+Symbol Info Helper
+https://www.tradingview.com/script/Os0K9RvL-RESEARCH-Symbol-Info-Helper/
+
+Fancy Shapes
+https://www.tradingview.com/script/Nh36Zdsr-RESEARCH-Fancy-Shapes/
+
+Chart Type Identifier
+https://www.tradingview.com/script/8xCRJkGR-RESEARCH-Chart-Type-Identifier/
+
+Heikin-Ashi Chart Identifier
+https://www.tradingview.com/script/eLWj8OiC-RESEARCH-Heikin-Ashi-Chart-Identifier/
+ 
+Point-and-Figure (P&F) Chart Identifier
+https://www.tradingview.com/script/fAxnvYDZ-RESEARCH-Point-and-Figure-P-F-Chart-Identifier/
+
+Kagi Chart Identifier
+https://www.tradingview.com/script/2wmVULCR-RESEARCH-Kagi-Chart-Identifier/
+
+Renko Chart Identifier
+https://www.tradingview.com/script/u8lLyEJ8-RESEARCH-Renko-Chart-Identifier/
+
+Litecoin Halving UTC Countdown
+https://www.tradingview.com/script/qGhcjPqe-RESEARCH-Litecoin-Halving-UTC-Countdown/
+
+UTC Clock
+https://www.tradingview.com/script/vvdMZ5vN-RESEARCH-UTC-Clock/
+
+Dashed Line Style
+https://www.tradingview.com/script/UbWkB5b4-RESEARCH-Dashed-Line-Style/
+
+Script With Expiration Time
+https://www.tradingview.com/script/1AnJcEZr-RESEARCH-Script-With-Expiration-Time/
+
+Momentum
+https://www.tradingview.com/script/VfFRUh91-RESEARCH-Momentum/
+
+Rate of Change
+https://www.tradingview.com/script/PvzZIeoo-RESEARCH-Rate-of-Change/
+
+Mean Absolute Deviation
+https://www.tradingview.com/script/qXc06HaE-RESEARCH-Mean-Absolute-Deviation/
+
+Custom Median vs Built-in Median
+https://www.tradingview.com/script/yjQx0BVg-RESEARCH-Custom-Median-vs-Built-in-Median/
+
+Quasi White Noise
+https://www.tradingview.com/script/UWKXaj5O-RESEARCH-Quasi-White-Noise/
+
+SMA Crossover Prediction
+https://www.tradingview.com/script/aERsVfMF-RESEARCH-SMA-Crossover-Prediction/
+
+Percentrank Bug
+https://www.tradingview.com/script/GibJ8AAn-RESEARCH-Percentrank-Bug/
+
+Kendall Rank Correlation Coefficient
+https://www.tradingview.com/script/lDkvchYp-Kendall-Rank-Correlation-Coefficient/
+
+
