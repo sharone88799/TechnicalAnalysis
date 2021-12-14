@@ -1,11 +1,4 @@
-LazyBear Custom Indicators for TradingView
-
-*** Keep scrolling, there are more than 6 pages of indicators listed :) ***
-
-If you use any of these indicators regularly, appreciate a small donation :) 
-My Bitcoin address is : 1Cs5DJ7DGqYVBWaAt5rPuRcD66ULgVCFnx
-My Amazon wishlist here : http://amzn.com/w/O8ITFC943CDH (or Amazon Credits)
-Ping me if would like other means of contributing to my tipjar.
+LazyBear Indicators -
 
 1. Color coded UO: https://www.tradingview.com/v/CDJHwbyx/ 
 2. Wilson Relative Price Channel: https://www.tradingview.com/v/w0VlTHHV/  
@@ -36,11 +29,6 @@ Ping me if would like other means of contributing to my tipjar.
 27. Ulcer Index: https://www.tradingview.com/v/QuqgdJgF/  
 28. Kaufmann Adaptive Moving Average: https://www.tradingview.com/v/wZGOIz9r/  
 29. Tushar Chande VIDYA: https://www.tradingview.com/v/wZGOIz9r/  
-If you use any of these indicators regularly, appreciate a small donation :) 
-My Bitcoin address is : 1Cs5DJ7DGqYVBWaAt5rPuRcD66ULgVCFnx
-My Amazon wishlist here : http://amzn.com/w/O8ITFC943CDH (or Amazon Credits)
-Ping me if would like other means of contributing to my tipjar.
-
 30. Adaptive RSI: https://www.tradingview.com/v/wZGOIz9r/  
 31. OBV Oscillator: https://www.tradingview.com/v/Ox9gyUFA/  
 32. Kairi Relative Index (KRI): https://www.tradingview.com/v/xzRPAboO/  
@@ -76,11 +64,6 @@ Ping me if would like other means of contributing to my tipjar.
 62. RSI+Avgs: https://www.tradingview.com/v/qcmM1Ocn/  
 63. Accumulative Swing Index: https://www.tradingview.com/v/ezHLOxrK/  
 64. ASI Oscillator: https://www.tradingview.com/v/ezHLOxrK/   
-If you use any of these indicators regularly, appreciate a small donation :) 
-My Bitcoin address is : 1Cs5DJ7DGqYVBWaAt5rPuRcD66ULgVCFnx
-My Amazon wishlist here : http://amzn.com/w/O8ITFC943CDH (or Amazon Credits)
-Ping me if would like other means of contributing to my tipjar.
-
 65. Tom Demark Range Expansion Index: https://www.tradingview.com/v/ezHLOxrK/  
 66. Correlation Coefficient + MA: http://pastebin.com/dqBYCpkP  
 67. Elders Force Index with MA & BB on MA: http://pastebin.com/aUEGnLqC  
@@ -116,11 +99,6 @@ Ping me if would like other means of contributing to my tipjar.
 97. Kase Peak Oscillator: https://www.tradingview.com/v/wIWnrc4i/  
 98. Krivo Index : https://www.tradingview.com/v/jolsrMiN/  
 99. Rainbow Charts MAs: https://www.tradingview.com/v/gWYg0ti0/  
-If you use any of these indicators regularly, appreciate a small donation :) 
-My Bitcoin address is : 1Cs5DJ7DGqYVBWaAt5rPuRcD66ULgVCFnx
-My Amazon wishlist here : http://amzn.com/w/O8ITFC943CDH (or Amazon Credits)
-Ping me if would like other means of contributing to my tipjar.
-
 100. Rainbow Charts Oscillator: https://www.tradingview.com/v/gWYg0ti0/  
 101. Rainbow Charts Binary UpWave: https://www.tradingview.com/v/gWYg0ti0/ 
 102. Volume Flow Indicator: https://www.tradingview.com/v/MhlDpfdS/  
@@ -156,11 +134,6 @@ Ping me if would like other means of contributing to my tipjar.
 132. Elastic Volume Weighted Moving Average: https://www.tradingview.com/v/YxzbpyLG/
 133. CCT Bollinger Band Oscillator: https://www.tradingview.com/v/iA4XGCJW/
 134. Vervoort Smoothed %b: https://www.tradingview.com/v/sDPe1PDd/
-If you use any of these indicators regularly, appreciate a small donation :) 
-My Bitcoin address is : 1Cs5DJ7DGqYVBWaAt5rPuRcD66ULgVCFnx
-My Amazon wishlist here : http://amzn.com/w/O8ITFC943CDH (or Amazon Credits)
-Ping me if would like other means of contributing to my tipjar.
-
 135. McGinley Dynamic Convergence / Divergence: http://pastebin.com/4TFRqpex
 136. DT Oscillator: http://pastebin.com/c0sBYXyw
 137. Leader of MACD: https://www.tradingview.com/v/y9HCZoQi/
@@ -194,11 +167,6 @@ Ping me if would like other means of contributing to my tipjar.
 165. Price Volume Rank: https://www.tradingview.com/v/vho8gnBR/
 166. LBR Paintbars: https://www.tradingview.com/v/PWOIfQ04/ (Updated code: http://pastebin.com/AhVQ1FBn )
 167. Mirrored MACD: https://www.tradingview.com/v/EchwZVoz/
-If you use any of these indicators regularly, appreciate a small donation :) 
-My Bitcoin address is : 1Cs5DJ7DGqYVBWaAt5rPuRcD66ULgVCFnx
-My Amazon wishlist here : http://amzn.com/w/O8ITFC943CDH (or Amazon Credits)
-Ping me if would like other means of contributing to my tipjar.
-
 168. McClellan Oscillator: https://www.tradingview.com/v/8YstxIAf/ 
 169. McClellan Summation Index: https://www.tradingview.com/v/m1SIvJNP/ 
 170. Insync Index: https://www.tradingview.com/v/klczcNre/ [v02 - http://pastebin.com/fZ4PmemR ]
@@ -222,20 +190,13 @@ Ping me if would like other means of contributing to my tipjar.
 188. Absolute Strength Index Oscillator: https://www.tradingview.com/script/E6xccTf1-Absolute-Strength-Index-Oscillator-LazyBear/
 189. Absolute Strength Index: http://pastebin.com/YZVswCKJ
 190. ATR in Pips: https://www.tradingview.com/script/O2DdCiML-ATR-Pips-LazyBear/
-
-If you use any of these indicators regularly, appreciate a small donation :) 
-My Bitcoin address is : 1Cs5DJ7DGqYVBWaAt5rPuRcD66ULgVCFnx
-My Amazon wishlist here : http://amzn.com/w/O8ITFC943CDH (or Amazon Credits)
-Ping me if would like other means of contributing to my tipjar.
-
 191. Ehlers CyberCycle Indicator: https://www.tradingview.com/script/bJdq9y5j-Ehlers-Cyber-Cycle-Indicator-LazyBear/
 192. Premier RSI Oscillator: https://www.tradingview.com/script/nExsfauf-Premier-RSI-Oscillator-LazyBear/
 193. Ehlers Center of Gravity Oscillator: https://www.tradingview.com/script/gFkGeFH4-Ehlers-Center-of-Gravity-Oscillator-LazyBear/
 194. Ehlers Instantaneous Trendline: https://www.tradingview.com/script/DaHLcICg-Ehlers-Instantaneous-Trend-LazyBear/
 195. Ehlers Simple Cycle Indicator: https://www.tradingview.com/script/xQ4mP4kc-Ehlers-Simple-Cycle-Indicator-LazyBear/
 196. Ehlers MESA Adaptive Moving Average: https://www.tradingview.com/script/foQxLbU3-Ehlers-MESA-Adaptive-Moving-Average-LazyBear/
-197. Ehlers Stochastic CG Oscillator: 
-https://www.tradingview.com/script/aX0yTFaA-Ehlers-Stochastic-CG-Oscillator-LazyBear/
+197. Ehlers Stochastic CG Oscillator: https://www.tradingview.com/script/aX0yTFaA-Ehlers-Stochastic-CG-Oscillator-LazyBear/
 198. Ehlers Adaptive Cyber Cycle Indicator: https://www.tradingview.com/script/3lV1e3ci-Ehlers-Adaptive-Cyber-Cycle-Indicator-LazyBear/
 199. Ehlers Adaptive CG Oscillator: https://www.tradingview.com/script/Nz4ABg9w-Ehlers-Adaptive-CG-Indicator-LazyBear/
 200. Ehlers Smoothed Adaptive Momentum Indicator: https://www.tradingview.com/script/vIE6adMm-Ehlers-Smoothed-Adaptive-Momentum-LazyBear/
@@ -244,5 +205,3 @@ https://www.tradingview.com/script/aX0yTFaA-Ehlers-Stochastic-CG-Oscillator-Lazy
 203. Decisionpoint Price Momentum Oscillator: https://www.tradingview.com/script/5e9WBJwE-DecisionPoint-Price-Momentum-Oscillator-LazyBear/
 204. DecisionPoint Swenlin Trading Oscillator [Breadth]: https://www.tradingview.com/script/tSiv4FOr-DecisionPoint-Breadth-Swenlin-Trading-Oscillator-LazyBear/
 205. DecisionPoint Swenlin Trading Oscillator [Volume]: https://www.tradingview.com/script/VZ6OUEXS-DecisionPoint-Volume-Swenlin-Trading-Oscillator-LazyBear/
-
-
